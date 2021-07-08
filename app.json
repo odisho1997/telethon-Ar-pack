@@ -15,6 +15,11 @@
       "description": "اكتب اسمك⁦",
       "value": "- M𝙴𝙼𝙸𝙰𝙽 𐇰.⁦⁦"
     },
+    "OWNER_ID": {
+      "description": "ايدي حسابك",
+      "value": "938496172",
+      "required": false
+    },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
       "value": "6223384"
@@ -32,7 +37,7 @@
       "value": "thwegfbot"
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع هنا توكن البوت الخاص بك",
+      "description": " توكن البوت - يجب وضع البوت انلاين مود",
       "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
     },
     "COMMAND_HAND_LER": {
@@ -43,6 +48,11 @@
     "ENV": {
       "description": "حط كود تيرمكس ايضا",
       "value": "1ApWapzMBu4mxlE9QSXdEBXbGkuEXLIKyZ5ATWUMCQXnd_bC0V725lp9KM-cWmGvnpq2lkXcnzmJ9Ep48lBCHz1T-84meJgfJN1sL8c30CdBUjQhNIxSJRPCqAWlrK10g2QTTRw3dcj6CpeyuUyx7e3niOqoATnbn4ev3KuvldfqhoG_jWjZ7XcIs9EY68zRmGM07fTGjWDoT1qBCky3MNRLkMxhSB9Y7fHl9b_IZ4AlJ6tqtgvaDHuTD6UZCJDxOqdkcXTNi8HTovGnznJ7BBMKF54WxZAg1weukgHtrF3dLNUB_bMdmMh1CKTidXTdbwB8ZNnao1GyIpKMWrlCMSwtxHZ6yqdo=",
+      "required": false
+    },
+    "MAX_FLOOD_IN_PMS": {
+      "description": "عدد الرسائل ",
+      "value": "7",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -97,7 +107,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس - لاتوصله",
-      "value": "Memo - USERBOT",
+      "value": "ody",
       "required": false
     }
   },
