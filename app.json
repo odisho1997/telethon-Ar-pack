@@ -1,39 +1,39 @@
 {
-  "name": "telethon-Arabs",
-  "description": "Welcome to Arab Telethon Source Arabic Language Modifier Follow our official channel @ IQTHON",
-  "logo": "https://telegra.ph/file/686c46e34b1a5fa4ef467.jpg",
+  "name": "Memo - USERBOT",
+  "description": "Arabic Userbot for you by - @ODYSHO ",
+  "logo": "https://telegra.ph/file/b204d0eade42f0acab4fe.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethon-Arab/telethon-Ar-pack/",
+  "repository": "https://github.com/odisho1997/telethon-Ar-pack/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
       "description": "اكتب اسمك⁦",
-      "value": "⁦⁦"
+      "value": "- M𝙴𝙼𝙸𝙰𝙽 𐇰.⁦⁦"
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
-      "value": ""
+      "value": "6223384"
     },
     "API_HASH": {
       "description": "اكتب هنا ألايبي هاش",
-      "value": ""
+      "value": "8b2a99ed20dec0ca4587201a57598ca6"
     },
     "STRING_SESSION": {
       "description": "ضع هنا كود تيرمكس",
-      "value": ""
+      "value": "1ApWapzMBu4mxlE9QSXdEBXbGkuEXLIKyZ5ATWUMCQXnd_bC0V725lp9KM-cWmGvnpq2lkXcnzmJ9Ep48lBCHz1T-84meJgfJN1sL8c30CdBUjQhNIxSJRPCqAWlrK10g2QTTRw3dcj6CpeyuUyx7e3niOqoATnbn4ev3KuvldfqhoG_jWjZ7XcIs9EY68zRmGM07fTGjWDoT1qBCky3MNRLkMxhSB9Y7fHl9b_IZ4AlJ6tqtgvaDHuTD6UZCJDxOqdkcXTNi8HTovGnznJ7BBMKF54WxZAg1weukgHtrF3dLNUB_bMdmMh1CKTidXTdbwB8ZNnao1GyIpKMWrlCMSwtxHZ6yqdo="
     },
     "TG_BOT_USERNAME": {
       "description": "ضع هنا معرف البوت بدون @",
-      "value": ""
+      "value": "thwegfbot"
     },
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
-      "value": ""
+      "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
     },
     "COMMAND_HAND_LER": {
       "description": "أتركة كما هوة",
@@ -42,7 +42,7 @@
     },
     "ENV": {
       "description": "حط كود تيرمكس ايضا",
-      "value": "ANYTHING",
+      "value": "1ApWapzMBu4mxlE9QSXdEBXbGkuEXLIKyZ5ATWUMCQXnd_bC0V725lp9KM-cWmGvnpq2lkXcnzmJ9Ep48lBCHz1T-84meJgfJN1sL8c30CdBUjQhNIxSJRPCqAWlrK10g2QTTRw3dcj6CpeyuUyx7e3niOqoATnbn4ev3KuvldfqhoG_jWjZ7XcIs9EY68zRmGM07fTGjWDoT1qBCky3MNRLkMxhSB9Y7fHl9b_IZ4AlJ6tqtgvaDHuTD6UZCJDxOqdkcXTNi8HTovGnznJ7BBMKF54WxZAg1weukgHtrF3dLNUB_bMdmMh1CKTidXTdbwB8ZNnao1GyIpKMWrlCMSwtxHZ6yqdo=",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -57,22 +57,22 @@
       },
       "PRIVATE_GROUP_BOT_API_ID": {
       "description": "حط ايدي كروبك مهم جدا",
-      "value": "",
+      "value": "1001436726103",
       "required": false
     },
      "PRIVATE_GROUP_ID": {
       "description": "حط ايدي كروبك ايضا مهم جدا",
-      "value": "",
+      "value": "1001436726103",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "حط رابط صورتك اذا ماتعرف اتركه فارغ",
-      "value": "",
+      "value": "https://telegra.ph/file/b204d0eade42f0acab4fe.jpg",
       "required": false
       },
      "CUSTOM_PMPERMIT_TEXT": {
       "description": "اكتب كليشتك الي تريدها تضهر ببوت الحمايه",
-      "value": "",
+      "value": "مرحبا يا حلوين",
       "required": false
       },
     "DEFAULT_BIO": {
@@ -97,7 +97,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس - لاتوصله",
-      "value": "Telethon-Ar",
+      "value": "Memo - USERBOT",
       "required": false
     }
   },
